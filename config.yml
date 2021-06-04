@@ -15,7 +15,7 @@ template:
 
 before:
 - type: respond # the type of action, full list at https://lab.github.com/docs/actions/
-  with: 01_first_response.md
+  with: 01_first-response.md
 
 # Steps for the course
 # A list of steps that take the learner through the course
